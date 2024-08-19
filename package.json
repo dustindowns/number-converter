@@ -1,6 +1,11 @@
 {
-  "name": "axial-takehome",
-  "version": "0.0.0",
+  "name": "number-converter",
+  "version": "0.1.0",
+  "description": "A simple app to convert abbreviated numbers to full numbers",
+  "author": {
+    "name": "Dustin Downs",
+    "email": "dustin@dustindowns.dev"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
